@@ -1,2 +1,1 @@
-# gluster-centos
-Container image gluster plus tendrl
+This dockerfile can be used to build a CentOS Gluster Container.
